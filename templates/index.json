@@ -85,7 +85,7 @@
         "custom_liquid_9wDUPc": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Perfect Symmetrical Wings in Seconds</span> – The stamp tip helps you create sharp, even eyeliner wings effortlessly without the usual struggle.<br><br>\n\n<span style=\"font-weight: bold;\">🖊️ Dual-Ended Smart Design</span> – One side stamps the wing, the other side defines and completes your eyeliner with precision.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Smudge-Resistant & Long Lasting</span> – Stays flawless for hours without fading, smudging, or transferring.<br><br>\n\n<span style=\"font-weight: bold;\">💖 Beginner-Friendly & Fast to Apply</span> – Ideal for daily use, whether you’re new to eyeliner or want a quicker routine.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Lift & Firm Skin Effortlessly</span> – Designed to visibly reduce fine lines and wrinkles while improving skin firmness on the face and neck.<br><br>\n\n<span style=\"font-weight: bold;\">💡 Advanced LED + Microcurrent Technology</span> – Combines LED light therapy, microcurrent stimulation, and ultrasonic vibration to rejuvenate and repair skin.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Boosts Absorption & Circulation</span> – Enhances absorption of serums and creams while promoting blood circulation for healthier, glowing skin.<br><br>\n\n<span style=\"font-weight: bold;\">💖 Easy to Use at Home</span> – A simple, non-invasive beauty solution perfect for daily skincare routines without expensive treatments.\n\n</div>"
           }
         },
         "variant_picker_txHV9a": {
@@ -120,7 +120,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "aurora™-winged-eyeliner-stamp",
+        "product": "neck-and-face-wrinkle-remover",
         "layout": "media_first",
         "full_width": false,
         "show_divider": false,
@@ -144,7 +144,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "AURORA",
+            "text": "Vitalea",
             "text_size": 20,
             "link": ""
           }
@@ -173,7 +173,7 @@
         "heading_NEyD4Q": {
           "type": "heading",
           "settings": {
-            "heading": "AT Aurora",
+            "heading": "AT vitalea",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -181,7 +181,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>We believe confidence starts with effortless beauty. Our mission is to create simple, effective beauty tools that help you achieve flawless results in seconds. Aurora combines smart design with everyday convenience, so every application feels easy, precise, and empowering.</p>",
+            "text": "<p>We’re on a mission to bring you high-quality, results-driven products that actually make a difference in your daily life. No fluff—just smart, effective solutions designed to save you time, boost your confidence, and deliver real results.</p><p>We carefully select every product based on performance, convenience, and value, so you always get the best without the guesswork.</p><p>Join thousands of happy customers who trust us to upgrade their everyday routine.</p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -220,7 +220,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "WELCOME TO AURORA",
+            "text": "WELCOME TO VITALEA",
             "text_size": 20,
             "link": ""
           }
@@ -247,7 +247,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<style>\n  .aurora-faq {\n    max-width: 900px;\n    margin: 40px auto;\n    padding: 0 16px;\n    font-family: Arial, sans-serif;\n  }\n\n  .aurora-faq h2 {\n    text-align: center;\n    font-size: 32px;\n    margin-bottom: 24px;\n    color: #1a1a1a;\n  }\n\n  .aurora-faq details {\n    background: #f8f8f8;\n    border: 1px solid #ececec;\n    border-radius: 14px;\n    padding: 18px 20px;\n    margin-bottom: 14px;\n    transition: all 0.3s ease;\n  }\n\n  .aurora-faq details[open] {\n    background: #f4eef3;\n    border-color: #d8c2cf;\n  }\n\n  .aurora-faq summary {\n    list-style: none;\n    cursor: pointer;\n    font-size: 17px;\n    font-weight: 600;\n    color: #222;\n    position: relative;\n    padding-right: 28px;\n  }\n\n  .aurora-faq summary::-webkit-details-marker {\n    display: none;\n  }\n\n  .aurora-faq summary::after {\n    content: \"+\";\n    position: absolute;\n    right: 0;\n    top: 0;\n    font-size: 22px;\n    line-height: 1;\n    color: #7a314f;\n    transition: transform 0.25s ease;\n  }\n\n  .aurora-faq details[open] summary::after {\n    content: \"−\";\n  }\n\n  .aurora-faq .faq-answer {\n    margin-top: 12px;\n    font-size: 15px;\n    line-height: 1.7;\n    color: #555;\n  }\n</style>\n\n<section class=\"aurora-faq\">\n  <h2>Frequently Asked Questions</h2>\n\n  <details>\n    <summary>How does the winged eyeliner stamp work?</summary>\n    <div class=\"faq-answer\">\n      One side stamps the wing shape onto the outer corner of your eye, while the other side helps you define and complete your eyeliner look with ease.\n    </div>\n  </details>\n\n  <details>\n    <summary>Is it easy to use for beginners?</summary>\n    <div class=\"faq-answer\">\n      Yes, it’s designed to make eyeliner quick and simple, even if you usually struggle with getting both wings even.\n    </div>\n  </details>\n\n  <details>\n    <summary>Is the eyeliner long-lasting?</summary>\n    <div class=\"faq-answer\">\n      Yes, the formula is made to stay in place for hours with minimal smudging, so your look stays sharp throughout the day.\n    </div>\n  </details>\n\n  <details>\n    <summary>Can I use it on both eyes?</summary>\n    <div class=\"faq-answer\">\n      Yes, the product is made for creating matching wings on both eyes, helping you get a more symmetrical finish faster.\n    </div>\n  </details>\n</section>",
+        "custom_liquid": "<style>\n  .aurora-faq {\n    max-width: 900px;\n    margin: 40px auto;\n    padding: 0 16px;\n    font-family: Arial, sans-serif;\n  }\n\n  .aurora-faq h2 {\n    text-align: center;\n    font-size: 32px;\n    margin-bottom: 24px;\n    color: #1a1a1a;\n  }\n\n  .aurora-faq details {\n    background: #f8f8f8;\n    border: 1px solid #ececec;\n    border-radius: 14px;\n    padding: 18px 20px;\n    margin-bottom: 14px;\n    transition: all 0.3s ease;\n  }\n\n  .aurora-faq details[open] {\n    background: #f4eef3;\n    border-color: #d8c2cf;\n  }\n\n  .aurora-faq summary {\n    list-style: none;\n    cursor: pointer;\n    font-size: 17px;\n    font-weight: 600;\n    color: #222;\n    position: relative;\n    padding-right: 28px;\n  }\n\n  .aurora-faq summary::-webkit-details-marker {\n    display: none;\n  }\n\n  .aurora-faq summary::after {\n    content: \"+\";\n    position: absolute;\n    right: 0;\n    top: 0;\n    font-size: 22px;\n    line-height: 1;\n    color: #7a314f;\n    transition: transform 0.25s ease;\n  }\n\n  .aurora-faq details[open] summary::after {\n    content: \"−\";\n  }\n\n  .aurora-faq .faq-answer {\n    margin-top: 12px;\n    font-size: 15px;\n    line-height: 1.7;\n    color: #555;\n  }\n</style>\n\n<section class=\"aurora-faq\">\n  <h2>Frequently Asked Questions</h2>\n\n  <details>\n    <summary>How long does delivery take?</summary>\n    <div class=\"faq-answer\">\n      Delivery usually takes 5–7 business days depending on your location.\n    </div>\n  </details>\n\n  <details>\n    <summary>Do you offer cash on delivery?</summary>\n    <div class=\"faq-answer\">\n      Yes, we offer Cash on Delivery for your convenience, so you can pay when your order arrives.\n    </div>\n  </details>\n\n  <details>\n    <summary>Is shopping on your store safe?</summary>\n    <div class=\"faq-answer\">\n      Yes, shopping with us is safe and secure. We are committed to protecting your personal information and providing a trusted shopping experience.\n    </div>\n  </details>\n\n  <details>\n    <summary>How can I track my order?</summary>\n    <div class=\"faq-answer\">\n      Once your order is confirmed and shipped, you will receive updates so you can follow your delivery status easily.\n    </div>\n  </details>\n</section>",
         "full_width": false,
         "show_divider": false,
         "padding_top": 36,
